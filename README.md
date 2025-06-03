@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sakshyam!
 
-<!--
-**Sakshyamhere/Sakshyamhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌏 &nbsp;Student from Kathmandu, Nepal  
+🎮 &nbsp;Gamer at heart | 💻 Code enthusiast  
+ 
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate student based in Kathmandu, Nepal, always eager to learn and build new things. I love exploring technology—whether it's front-end, back-end, or mobile apps. When I'm not coding, you'll probably find me gaming or exploring the latest tech trends!
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** TypeScript, JavaScript, PHP, Kotlin, Go
+- **Frameworks:** React, Laravel, Echo (Go)
+- **Mobile:** Android development with Kotlin
+- **Others:** Always learning and open to new tech!
+
+---
+
+## 🎯 What I Do
+
+- Develop web applications with React and Laravel
+- Build Android apps using Kotlin
+- Experiment with Go (Echo framework)
+- Dive into new languages and frameworks for fun
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out if you want to collaborate, chat about tech, or have a good gaming session!
+
+---
+
+> “Keep learning, stay curious.”
