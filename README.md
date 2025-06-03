@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Sakshyam!
 
 🌏 &nbsp;Student from Kathmandu, Nepal  
-🎮 &nbsp;Gamer at heart | 💻 Code enthusiast  
  
 ---
 
